@@ -1,0 +1,13 @@
+
+19930000: regular spikes 
+19930001: regular spikes but a wild artifact appears
+19930002: regular spikes but manual stimulation around 4.5 seconds
+19930003: no spikes but a wild artifact appears
+19930004: some spikes with stimulation but a wild artifact appears
+19930005: same as previous
+19930006: same as previous
+19930007: regular spikes with stimulation but a wild artifact appears on all but first stimulation. First stimulation with good spikes.
+19930008: some spikes with stimulation but low artifact and little change in spike frequency
+19930009: regular spikes but manual stimulation around 10 seconds
+19920010: regular spikes but stimulation without channel
+
