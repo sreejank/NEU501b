@@ -1,0 +1,27 @@
+A:
+19o09001: No movement
+19o09003: 3.5 speed, 1 step, CW
+19o09005: 3.5 speed, 1 step, CCW
+19o09006: 3.5 speed, 1 step, Osccilate (CCW)
+19o09007: 7.0 speed, 1 step, Osccilate (CCW)
+19o09009: 10 speed, 1 step, Oscillate (CCW)
+B:
+19o09010: 3.5 speed, 6 step, Continuous (CCW)
+19o09011: 3.5 speed, 6 step, Oscillate (CCW)
+19o09013: 7 speed, 6 step, Oscillate (CCW)
+19o09015: 10 speed, 6 step, Oscillate (CCW)
+C:
+19o09016: 3.5 speed, 5 step, Oscillate (CCW)
+19o09017: 3.5 speed, 5 step, Continuous (CCW)
+19o09018: 7 speed, 5 step, Continuous (CCW)
+19o09019: 10 speed, 5 step, Continuous (CCW)
+19o09020: 3.5 speed, 3 step, Step (CCW)
+
+
+
+
+
+
+
+
+
