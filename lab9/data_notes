@@ -1,5 +1,22 @@
+
+
 19n11002: Recording without light and flies seperated
 19n11004: Recording without light but flies singing
 19n11005: Recording with light and flies singing 
 19n11006: Corrected filters. No light. Flies joined
 19n11007: Light. Joined. 
+19n11008: VPR6. baseline. 
+19n11009: VPR6. Params: 5s interval. .006 pulse delay. 5s train duration. .02 train pulse interval. .005 second pulse width. 5V potentiometer. pulse/10V
+19n11011: VPR6. same as above except 7.5s interval. 
+19n11012: VPR6. Same as original, but 2.5s interval
+19n11013: VPR6. Same as original, but pulse width at .002 pulse width. 
+19n11015: VPR6. Pulse width .008. 
+
+Important ones:
+19n11016: VPR6. Train duration 8s 
+19n11017: VPR6. Train duration 2s 
+19n11018: VPR6. Repeat 9. 
+19n11019: Same as 9 except pulse width .002.
+19n11020: Same as 9 except pulse width .008
+19n11021: Same as 9 but train duration 2s
+19n11022: Same as 9 but train duration 8s
